@@ -1,2 +1,2 @@
-# johnamorris_dot_org
-johnamorris_dot_org website
+# johnamorris.org
+johnamorris.org website
